@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="work"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/cos-05Nov2002.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jdom2-2.0.6.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/sist_util.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="output" path="work"/>
+</classpath>
